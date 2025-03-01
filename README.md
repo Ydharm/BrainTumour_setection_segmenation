@@ -11,7 +11,7 @@
 
 **Demo Image:**
 
-![Demo Image](demo_image.png)  *(Replace demo\_image.png with your demo image file)*
+![Demo Image](demo_image.png)  
 
 **Setup:**
 
